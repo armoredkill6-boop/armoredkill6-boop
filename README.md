@@ -1,16 +1,18 @@
-## Hi there 👋
+## Привет, я Александр
 
-<!--
-**armoredkill6-boop/armoredkill6-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Делаю Telegram-ботов для малого бизнеса: мастеров, салонов, репетиторов, небольших сообществ.
 
-Here are some ideas to get you started:
+### Что делаю
+- Боты онлайн-записи: услуга, мастер, день, время, напоминания клиенту за день и за 2 часа
+- Панель мастера прямо в Telegram: записи на сегодня и завтра, статистика, закрытие занятого времени
+- Боты с анкетой и расчётами, рассылки, выгрузка записей в таблицу, оплата внутри Telegram
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Мои боты
+- [@demo_salon_zapis_bot](https://t.me/demo_salon_zapis_bot) — демо записи в салон красоты, можно пройти запись самому
+- [@urdiet_bot](https://t.me/urdiet_bot) — «Твой рацион»: норма калорий, меню и список покупок с ценами по региону
+
+### Чем пользуюсь
+Python · aiogram 3 · SQLite · Ubuntu · systemd
+
+### Связь
+Telegram: [@zeokritus](https://t.me/zeokritus)

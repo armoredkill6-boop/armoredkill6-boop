@@ -16,3 +16,4 @@ Python · aiogram 3 · SQLite · Ubuntu · systemd
 
 ### Связь
 Telegram: [@zeokritus](https://t.me/zeokritus)
+Канал с разборами и новыми работами: [Александр | Telegram-боты для бизнеса]((https://t.me/zeokritus_bots))
